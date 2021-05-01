@@ -1,19 +1,24 @@
 h1{ color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-family: 'Lucida Sans Unicode';
     font-size: 40px;
-    background-color: rgb(173, 153, 170);
+    background-color: rgb(181, 185, 126);
     text-align: center;
 }
-p{font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-weight: bold; 
+h2{ color: black;
+    font-family: 'Lucida Sans';
+    font-size: 35px;
     font-style: italic;
+    font-style: initial;
+    background-color: rgb(234, 235, 170);
 }
-h2{
-     color: black;
-    font-family: Verdana, Geneva, Tahoma, sans-serif;
-    font-size: 20px;
-    font-style: italic;
+h4{ color: rgb(85, 27, 112);
+    font-family: 'Lucida Sans';
+    font-size: large;
 }
-h3{ color: red;}
-h4{ color:violet;
-font-style: oblique;}
+h5{ font-size: x-large;
+    font-family: Impact;
+    color: forestgreen;
+}
+li{color: brown;
+font-weight: 1500;
+}
